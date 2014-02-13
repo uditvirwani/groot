@@ -1,0 +1,30 @@
+{
+  "name": "uditvirwani/roots",
+  "type": "wordpress-theme",
+  "license": "MIT",
+  "description": "WordPress theme from roots",
+  "homepage": "http://roots.io/",
+  "authors": [
+    {
+      "name": "Ben Word",
+      "email": "ben@benword.com",
+      "homepage": "https://github.com/retlehs"
+    },
+    {
+      "name": "Scott Walkinshaw",
+      "email": "scott.walkinshaw@gmail.com",
+      "homepage": "https://github.com/swalkinshaw"
+    }
+  ],
+  "keywords": [
+    "wordpress"
+  ],
+  "support": {
+    "issues": "https://github.com/roots/roots/issues",
+    "forum": "http://discourse.roots.io/"
+  },
+  "require": {
+    "php": ">=5.3.0",
+    "composer/installers": "~1.0"
+  }
+}
